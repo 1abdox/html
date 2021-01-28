@@ -1,0 +1,28 @@
+.liste1
+{
+    
+    background-color:brown;
+    opacity: 0.3;/*Farbe kann hiermit etwas geändert werden*/
+    
+}
+.liste2
+{
+    height:900;
+    background-color: darkblue;
+}
+.liste3
+{
+    background-color: deeppink;
+}
+#abdul
+{
+    color: deeppink;
+}
+div
+{
+    color: forestgreen;
+    border-style: solid;
+    padding-left: 20px;
+    width: 200px;
+    
+}
